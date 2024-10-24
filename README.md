@@ -8,4 +8,4 @@ Ejercicios varios resueltos de comprobación y evaluación.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FcoJimenez.FcoJimenez)
+
